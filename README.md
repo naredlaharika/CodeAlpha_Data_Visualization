@@ -1,4 +1,4 @@
-# CodeAlpha - Task 2 - Data Visualization
+# CodeAlpha - Task 3 - Data Visualization
 
 ## Overview
 This project focuses on transforming raw Netflix dataset information into meaningful visualizations using Python libraries such as Matplotlib and Seaborn. Various charts and graphs were created to identify trends, content distribution, release patterns, and insights from Netflix data.
